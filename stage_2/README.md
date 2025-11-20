@@ -2,16 +2,16 @@
 
 Adipocytes - fat cells
 B cells - produce antibody
-Bergmann glia - a type of specialised astrocytes
 Dendritic cells - stimulating immune response
 Eosinophils - a type of white blood cells
 Fibroblasts - progenitors for specialised mesenchymal cell types
 NK cells - lymphocytes that destroy infected and diseased cells
 T cells - lymphocytes important for the adaptive immune system
 
+
 # Is the tissue source really bone marrow?
 
-No. First, the sample does not have any progenitor myeloid or lymphoid cells that is typically found in the bone marrow. Only blood cells to be found are mature blood cells. Second, the are cells specific to nervous system functions such as the Bergmann glia cells.
+No. The tissue is may be peripheral blood or samples from PBMC. There are a lot of hematologic cells. It is not bone marrow because no progenitor cells such as progenitor myeloids or lymphoids.
 
 # Based on the relative abundance of cell types, is the patient healthy or infected?
 
