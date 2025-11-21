@@ -1,3 +1,15 @@
+# What i did?
+
+I had analysed a bone marrow dataset using the scanpy database.
+
+# What i found?
+
+The dataset given may not be bone marrow.
+
+# How to run code?
+
+Open in Jupyter notebook or google collab.
+
 # What cell types did you identify?
 
 Neutrophils - white blood cells that conducts phagocytosis.
